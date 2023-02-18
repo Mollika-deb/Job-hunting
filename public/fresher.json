@@ -1,0 +1,41 @@
+[
+
+    {   "id": "1",
+        "img_url" : "https://i.ibb.co/Bjgp7f1/tes-gen-blog-post-071921-1233182206-1-800x412.jpg",
+       "job_title" : "Software Developer",
+       "compny" : "Tech Mahindra",
+       "location":"Pune, India"
+    },
+    {   "id": "2",
+        "img_url" : "https://i.ibb.co/37nqcKR/how-to-become-an-information-security-analyst.jpg",
+       "job_title" : "Information Security Analyst",
+       "compny" : "Larsen & Toubro Infotech",
+       "location":"Mumbai, India"
+    },
+    {   "id": "3",
+        "img_url" : "https://i.ibb.co/m85wfvb/how-to-become-it-manager-jpg.webp",
+       "job_title" : "IT Manager",
+       "compny" : "Newscred",
+       "location":"Bangladesh"
+    },
+    {   "id": "4",
+        "img_url" : "https://i.ibb.co/ypf5wbN/Web-designer-1.jpg",
+       "job_title" : "Web Developer",
+       "compny" : " Bangla Puzzle Limited ",
+       "location":"Bangladesh"
+    },
+    {   "id": "5",
+        "img_url" : "https://i.ibb.co/4d72RGN/computer-systems-analyst-profile-image.jpg",
+       "job_title" : "Computer Systems Analyst",
+       "compny" : "Cloudsmartz",
+       "location":" New York, United States"
+    },
+    {   "id": "6",
+        "img_url" : "https://i.ibb.co/vvz5bbH/cakap.jpg",
+       "job_title" : "Data Scientist",
+       "compny" : "Monicat Data",
+       "location":"Minnesota, United States"
+    }
+    
+    
+]

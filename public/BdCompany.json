@@ -1,0 +1,25 @@
+[
+
+    {   "id": "1",
+        "img_url" : "https://i.ibb.co/Tg0TdMy/Newscred.jpg",
+       
+       "company" : "Newscred",
+       "location":"Dhaka, India",
+       "Description": "Newscred working on a mission to reinvent marketing for everyone. They prioritize the trust over everything because it is the foundation of their values. They love working together and believing in the power of tightly-knit company. The employer’s bring solutions when they face challenges and lead encourage, support their colleagues."
+    },
+    {   "id": "2",
+        "img_url" : "https://i.ibb.co/sRkzYD6/Southtech.jpg",
+        "company" : "Southtech Group",
+       "location":"Dhaka, Bangladesh",
+       "Description": "Southtech Group is one of the largest company which became Microsoft certified solution provider, ISO 9001 certified and the first CMMI level 3 appraised software companies in Bangladesh. The company established in 1996. In 2011, the south-tech limited received the award of international arch of Europe for quality and technology in gold category. The young professional team awarded runner up at ‘code warrior challenge’."
+    },
+    
+    {   "id": "3",
+        "img_url" : "https://i.ibb.co/GtRQ3PW/Data-Soft-296x300.jpg",
+        "company" : "Datasoft Systems BD ltd",
+       "location":"Dhaka, Bangladesh",
+       "Description": "Data Soft is well known as the first CMMI Level 5 software development company in Bangladesh. In both Corporate and public sectors, Data soft delivered innovative and cost effective technical services for the customers. In design and create projects, It has contributed significantly to the digitalization of Bangladesh."
+    }
+    
+    
+]

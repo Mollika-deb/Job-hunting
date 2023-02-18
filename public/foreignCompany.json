@@ -1,0 +1,25 @@
+[
+
+    {   "id": "1",
+        "img_url" : "https://i.ibb.co/wBVkQjv/top-10-it-companies-in-the-world1.png",
+       
+       "company" : "Microsoft Corporation",
+       "location":"Redmond, Washington",
+       "Description": "Microsoft Windows, Microsoft Office, and Internet Explorer, among other products, are used by nearly every business and professional around the world. Microsoft was established in 1975, by Bill Gates and Paul Allen, and it has grown its market share by expanding its services beyond the operating system industry to other types of software's. It also used inorganic expansion to increase revenue by purchasing a number of firms."
+    },
+    {   "id": "2",
+        "img_url" : "https://i.ibb.co/KGrhxhk/top-10-it-companies-in-the-world2.png",
+        "company" : "IBM",
+       "location":"Armonk, Future York",
+       "Description": "The firm began as a computer recording firm before being called IBM (International Business Machines) in 1924. IBM's headquarters are in Armonk, Future York, and the company has a comprehensive suite of software products and services that it is growing to meet the modern and rising demands of current and emerging users. Large income generators are cloud computation, cognitive computation, data analytic and the Internet of things, IT infrastructures, and securities. IBM's revenue is increasing by double digits, and they effectively strengthened in 2017."
+    },
+    
+    {   "id": "3",
+        "img_url" : "https://i.ibb.co/41CdzL6/top-10-it-companies-in-the-world4.png",
+        "company" : "Oracle Corporation",
+       "location":"Redwood Shores, California",
+       "Description": "The firm is well-known for its ERP solution, database development and planning software's, supply-chain managing software's, and client relationship management systems. Oracle is recognised for its user-friendly apps and always strives to remove complex nature from the apps they build, such as data centre operations and cloud applications, which can be a barrier to business transformation, speed, flexibility, manageability, reliability, security, and engineering."
+    }
+    
+    
+]
